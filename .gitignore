@@ -1,5 +1,8 @@
 # testspace for output
 /testspace
 
+# python cache
+/__pycache__
+
 # misc
 log*
